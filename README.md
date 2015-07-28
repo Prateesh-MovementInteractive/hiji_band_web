@@ -12,7 +12,7 @@ Installation/How to Run the app
 To get a copy of the repository 
 
 1.Using Command Prompt(Git Bash )
-git clone https://github.com/USERNAME/REPOSITORY.git
+git clone https://github.com/Prateesh-MovementInteractive/hiji_band_web.git
 
 2.Using the GitHub page
 While logged in to GitHub, there are URLs  available in the sidebar:
