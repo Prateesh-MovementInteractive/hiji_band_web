@@ -35,6 +35,7 @@ Home button should take you to Index page
 
 Contributors
 Adolph Seema
+and
 Prateesh Goswami
 
 
